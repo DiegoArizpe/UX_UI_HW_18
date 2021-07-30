@@ -37,3 +37,7 @@ h4 {
 button {
     background-clip: padding-box;
 }
+
+@media only screen and (max-width: 600) {
+    
+}
